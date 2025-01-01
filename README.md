@@ -1,4 +1,6 @@
-## Hi there 👋
+* 🔭 Sou aluno no Inteli
+* 🌱 Desbravando conteúdos de tecnologia
+* ⚡ Uma curiosidade sobre mim é que eu **amo musculação**
 
 <!--
 **IsaacSOuzaSanTOS/IsaacSOuzaSanTOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
