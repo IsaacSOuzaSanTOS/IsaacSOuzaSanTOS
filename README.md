@@ -1,5 +1,9 @@
+<h2> Olá, meu nome é Isaac <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 * 🔭 Sou aluno no Inteli
+
 * 🌱 Desbravando conteúdos de tecnologia
+
 * ⚡ Uma curiosidade sobre mim é que eu **amo musculação**
 
 * 🌱 Atualmente estou aprendendo
