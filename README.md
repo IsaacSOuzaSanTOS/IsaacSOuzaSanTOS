@@ -1,18 +1,22 @@
-<h2> Olá, meu nome é Isaac <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Olá, meu nome é Isaac e tenho 18 anos <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50" height="50">
+</h2>
 
-* 🔭 Sou aluno no Inteli
+*Sobre mim:*
 
-* 🌱 Desbravando conteúdos de tecnologia
+* 🔭 *Sou aluno no Inteli*
 
-* ⚡ Uma curiosidade sobre mim é que eu **amo musculação**
+* 🌱 *Desbravando conteúdos de tecnologia*
 
-* 🌱 Atualmente estou aprendendo
+* ⚡ *Uma curiosidade sobre mim é que eu* **amo musculação**
+
+* 🌱 *Atualmente estou aprendendo*
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
 
+* 🤝 Github do meu [buddy](https://github.com/gabriellemitoso793) <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 
 
-                    
+<!-- escrever aling='...' para mudar a posição do gift ou imagem
 <!--
 **IsaacSOuzaSanTOS/IsaacSOuzaSanTOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
