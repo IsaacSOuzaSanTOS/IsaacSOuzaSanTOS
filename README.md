@@ -2,6 +2,14 @@
 * 🌱 Desbravando conteúdos de tecnologia
 * ⚡ Uma curiosidade sobre mim é que eu **amo musculação**
 
+* 🌱 Atualmente estou aprendendo
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
+
+
+
+                    
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <!--
 **IsaacSOuzaSanTOS/IsaacSOuzaSanTOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
