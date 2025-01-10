@@ -3,13 +3,15 @@
 
 *Sobre mim:*
 
-* 🔭 *Sou aluno no Inteli*
+* 🔭 Sou aluno no Inteli
 
-* 🌱 *Desbravando conteúdos de tecnologia*
+* 🌱 Desbravando conteúdos de tecnologia
 
-* ⚡ *Uma curiosidade sobre mim é que eu* **amo musculação**
+* ⚡ Uma curiosidade sobre mim (uma verdade e uma mentira):
+eu não pratico esportes e eu amo pelúcias
 
-* 🌱 *Atualmente estou aprendendo*
+
+* 🌱 Atualmente estou aprendendo
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
 
