@@ -1,4 +1,4 @@
-<h2> Olá, meu nome é Isaac e tenho 18 anos <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50" height="50">
+<h2> Olá, meu nome é Isaac e tenho 18 anos 
 </h2>
 
 *Sobre mim:*
@@ -15,7 +15,7 @@ eu não pratico esportes e eu amo pelúcias
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
 
-* 🤝 Github do meu [buddy](https://github.com/gabriellemitoso793) <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+
 
 
 <!-- escrever aling='...' para mudar a posição do gift ou imagem
